@@ -16,4 +16,9 @@ public class App
 	public void openBrowser2() {
 		System.out.println("Hello world");
 	}
+	@Test
+	public void testBrowser() {
+System.out.println("One way");
+	}
+	
 }
